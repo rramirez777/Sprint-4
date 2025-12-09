@@ -155,6 +155,9 @@ Tras esto usted podra seguir usando la aplicacion con normalidad e igualmente vo
 (Todas estas caracteristicas son añadidos que no aectan la ejecucion de la aplicacion, dependera del usuario si usarlas o no :D)
 
 
+## 🔗Video
+https://youtu.be/DfzQDWQug9s
+Contenido adicional, explicando y mostrando el uso y codigo de la aplicacion.
 
 
 
