@@ -146,6 +146,8 @@ Tambien conocido como Codigo Konami, se abrira una ventana que ejecutara el vide
 
 El cual sera totalmente jugable y compatible con el sistema, ademas de ya venir con las teclas configuradas.
 
+<img width="700" height="1001" alt="image" src="https://github.com/user-attachments/assets/5de9a4d0-0757-4924-9bc4-e58e6b88b6fe" />
+
 El encabezado principal de la aplicacion cambiara por unos segundos, y se abrira una ventana con un mensaje que se puede cerrar sin ningun problema.
 
 Tras esto usted podra seguir usando la aplicacion con normalidad e igualmente volver al juego si en algun momento lo desea.
